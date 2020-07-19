@@ -1,0 +1,5 @@
+D:\ContactDiary\ContactDiary\Models\bin\Debug\Models.dll
+D:\ContactDiary\ContactDiary\Models\bin\Debug\Models.pdb
+D:\ContactDiary\ContactDiary\Models\obj\Debug\Models.dll
+D:\ContactDiary\ContactDiary\Models\obj\Debug\Models.pdb
+D:\ContactDiary\ContactDiary\Models\obj\Debug\Models.csprojAssemblyReference.cache

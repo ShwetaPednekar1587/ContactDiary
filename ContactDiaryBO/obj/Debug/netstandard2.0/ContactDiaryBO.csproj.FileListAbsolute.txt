@@ -1,0 +1,16 @@
+D:\ContactDiary\ContactDiary\ContactDiaryBO\bin\Debug\netstandard2.0\ContactDiaryBO.deps.json
+D:\ContactDiary\ContactDiary\ContactDiaryBO\bin\Debug\netstandard2.0\ContactDiaryBO.dll
+D:\ContactDiary\ContactDiary\ContactDiaryBO\bin\Debug\netstandard2.0\ContactDiaryBO.pdb
+D:\ContactDiary\ContactDiary\ContactDiaryBO\bin\Debug\netstandard2.0\ContactDiaryDataAccess.dll
+D:\ContactDiary\ContactDiary\ContactDiaryBO\bin\Debug\netstandard2.0\Models.dll
+D:\ContactDiary\ContactDiary\ContactDiaryBO\bin\Debug\netstandard2.0\ContactDiaryDataAccess.pdb
+D:\ContactDiary\ContactDiary\ContactDiaryBO\bin\Debug\netstandard2.0\ContactDiaryDataAccess.dll.config
+D:\ContactDiary\ContactDiary\ContactDiaryBO\bin\Debug\netstandard2.0\Models.pdb
+D:\ContactDiary\ContactDiary\ContactDiaryBO\obj\Debug\netstandard2.0\ContactDiaryBO.csprojAssemblyReference.cache
+D:\ContactDiary\ContactDiary\ContactDiaryBO\obj\Debug\netstandard2.0\ContactDiaryBO.AssemblyInfoInputs.cache
+D:\ContactDiary\ContactDiary\ContactDiaryBO\obj\Debug\netstandard2.0\ContactDiaryBO.AssemblyInfo.cs
+D:\ContactDiary\ContactDiary\ContactDiaryBO\obj\Debug\netstandard2.0\ContactDiaryBO.csproj.CopyComplete
+D:\ContactDiary\ContactDiary\ContactDiaryBO\obj\Debug\netstandard2.0\ContactDiaryBO.dll
+D:\ContactDiary\ContactDiary\ContactDiaryBO\obj\Debug\netstandard2.0\ContactDiaryBO.pdb
+D:\ContactDiary\ContactDiary\ContactDiaryBO\bin\Debug\netstandard2.0\EntityFramework.dll
+D:\ContactDiary\ContactDiary\ContactDiaryBO\bin\Debug\netstandard2.0\EntityFramework.xml

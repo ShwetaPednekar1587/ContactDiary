@@ -1,0 +1,11 @@
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\bin\Debug\ContactDiaryDataAccess.dll.config
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\bin\Debug\ContactDiaryDataAccess.dll
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\bin\Debug\ContactDiaryDataAccess.pdb
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\bin\Debug\EntityFramework.dll
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\bin\Debug\EntityFramework.xml
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\obj\Debug\ContactDiaryDataAccess.csproj.CopyComplete
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\obj\Debug\ContactDiaryDataAccess.dll
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\obj\Debug\ContactDiaryDataAccess.pdb
+D:\ContactDiary\ContactDiary\ContactDiaryDataAccess\obj\Debug\ContactDiaryDataAccess.csprojAssemblyReference.cache
